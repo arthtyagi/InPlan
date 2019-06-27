@@ -1,4 +1,5 @@
 # InPlan 
+[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 ![Screen Shot 2019-06-27 at 3 09 26 PM](https://user-images.githubusercontent.com/41021374/60255558-9ff7d080-98ed-11e9-9892-8410f8b8f8e5.png)
 
 InPlan is an Android Application which is also available on PlayStore.
