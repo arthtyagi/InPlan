@@ -1,4 +1,6 @@
-# InPlan
+# InPlan 
+![Screen Shot 2019-06-27 at 3 09 26 PM](https://user-images.githubusercontent.com/41021374/60255558-9ff7d080-98ed-11e9-9892-8410f8b8f8e5.png)
+
 InPlan is an Android Application which is also available on PlayStore.
 
 It ( InPlan ) is an all new way to for students to manage their schoolwork. It helps students manage schoolwork by integrating with common classroom tools and centralizing everything in one place.
