@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "658638433969",
+    "firebase_url": "https://plannrpath.firebaseio.com",
+    "project_id": "plannrpath",
+    "storage_bucket": "plannrpath.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:658638433969:android:996f9b8ddbb2672e",
+        "android_client_info": {
+          "package_name": "com.arisveam.planit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "658638433969-58p1td0jd96m1t23cmje3n5644tdb911.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB482sIxxzuhNxQIMn-7GLwzPX8zJrtxDk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "658638433969-58p1td0jd96m1t23cmje3n5644tdb911.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
