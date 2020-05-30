@@ -23,5 +23,3 @@ Step 2: Click on the Top Right Pane for a Tutorial on how to use the App.
 Create Courses. Create Assignments for Courses which are added automatically to your calendar.
 
 To prevent users from creating accounts on emails belonging to other people, we allow an option to change your password using the link we send to your email which remains exclusive to you.
-
-HOW IT WORKS ?
